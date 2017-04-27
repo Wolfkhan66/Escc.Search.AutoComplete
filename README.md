@@ -6,8 +6,5 @@ The dataset is read using the Google Analytics API, cleaned up and saved in a re
 
 The project contains code for two possible repositories, SQL Server and Azure table storage.
 
-## Development setup steps
-
-1. From an Administrator command prompt, run `app-setup-dev.cmd` to set up a site in IIS.
-2. Build the solution
-3. Update `app.config` and/or `web.config` with connection details for Google Analytics, SQL Server or your Azure storage account, depending which ones you are using.
+## 
+This repository contains some classes i wrote whilst working on the project.
