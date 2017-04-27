@@ -7,4 +7,4 @@ The dataset is read using the Google Analytics API, cleaned up and saved in a re
 The project contains code for two possible repositories, SQL Server and Azure table storage.
 
 ## 
-This repository contains some classes i wrote whilst working on the project.
+This repository contains some classes i wrote to complete the project and are an example of how to query the google analytics api with either user authentication or a service account.
